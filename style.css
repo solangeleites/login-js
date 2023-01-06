@@ -36,6 +36,9 @@ main{
     font-weight: 600;
     margin-bottom: 20px;
 }
+.back{
+    color: var(--beige-light);
+}
 .login:hover{
     color: var(--beige-light);
     cursor: pointer;
